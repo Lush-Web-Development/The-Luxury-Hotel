@@ -199,56 +199,57 @@ const Navigation = () => {
   // Background image styles for each tab
   const backgroundStyles = {
     0: {
-      backgroundImage: `url(b.jpg)`,
+      backgroundImage: `url(https://firebasestorage.googleapis.com/v0/b/hotel-booking-system-35f4a.appspot.com/o/Public%20Folder%2Fb.jpg?alt=media&token=8cd785be-e300-498d-8593-7bdd00698924)`,
       backgroundRepeat: 'no-repeat',
       backgroundSize: 'cover',
       minHeight: '98vh',
       opacity: '0.9'
     },
     1: {
-      backgroundImage: `url(room3.png)`, 
+      backgroundImage: `url(https://firebasestorage.googleapis.com/v0/b/hotel-booking-system-35f4a.appspot.com/o/Public%20Folder%2Froom3.png?alt=media&token=910b9e2a-54b5-436a-8c8c-1fba99b19a3d)`, 
       backgroundRepeat: 'no-repeat',
       backgroundSize: 'cover',
       minHeight: '98vh',
       opacity: '0.9'
     },
     2: {
-      backgroundImage: `url(Swimming.png)`, 
+      backgroundImage: `url(https://firebasestorage.googleapis.com/v0/b/hotel-booking-system-35f4a.appspot.com/o/Public%20Folder%2FSwimming.png?alt=media&token=a8b2c994-cf8e-429c-b874-fd01b633a44e)`, 
       backgroundRepeat: 'no-repeat',
       backgroundSize: 'cover',
       minHeight: '98vh',
       opacity: '0.9'
     },
     3: {
-      backgroundImage: `url(room2.png)`, 
+      backgroundImage: `url(https://firebasestorage.googleapis.com/v0/b/hotel-booking-system-35f4a.appspot.com/o/Public%20Folder%2Froom2.png?alt=media&token=641287f2-762c-4217-8a2f-281a8253b180)`, 
       backgroundRepeat: 'no-repeat',
       backgroundSize: 'cover',
       minHeight: '98vh',
       opacity: '0.9'
     },
     4: {
-      backgroundImage: `url(login.jpg)`,
+      backgroundImage: `url(https://firebasestorage.googleapis.com/v0/b/hotel-booking-system-35f4a.appspot.com/o/Public%20Folder%2Flogin.jpg?alt=media&token=a810ff0a-6305-4be3-8a40-d0abbb0b8875)`,
       backgroundRepeat: 'no-repeat',
       backgroundSize: 'cover',
       minHeight: '98vh',
       opacity: '0.9'
     },
     5: {
-      backgroundImage: user ? `url(spa.png)` : `url(room6.png)`, 
+      backgroundImage: user ? `url(https://firebasestorage.googleapis.com/v0/b/hotel-booking-system-35f4a.appspot.com/o/Public%20Folder%2FSpa.png?alt=media&token=f0e89146-dbfe-4a98-9eae-a1243bfb8de3)` 
+                                  : `url(https://firebasestorage.googleapis.com/v0/b/hotel-booking-system-35f4a.appspot.com/o/Public%20Folder%2Froom6.png?alt=media&token=1bf0b63d-e3f3-4341-8890-1549e07835db)`, 
       backgroundRepeat: 'no-repeat',
       backgroundSize: 'cover',
       minHeight: '98vh',
       opacity: '0.9'
     },
    6: {
-    backgroundImage: `url(login.jpg)`, 
+    backgroundImage: `url(https://firebasestorage.googleapis.com/v0/b/hotel-booking-system-35f4a.appspot.com/o/Public%20Folder%2Flogin.jpg?alt=media&token=a810ff0a-6305-4be3-8a40-d0abbb0b8875)`, 
     backgroundRepeat: 'no-repeat',
     backgroundSize: 'cover',
     minHeight: '98vh',
     opacity: '0.8'
   },
   7: {
-    backgroundImage: `url(room1.png)`, 
+    backgroundImage: `url(https://firebasestorage.googleapis.com/v0/b/hotel-booking-system-35f4a.appspot.com/o/Public%20Folder%2Froom1.png?alt=media&token=89633f0a-554e-4481-b71a-5b54415d658a)`, 
     backgroundRepeat: 'no-repeat',
     backgroundSize: 'cover',
     minHeight: '98vh',
