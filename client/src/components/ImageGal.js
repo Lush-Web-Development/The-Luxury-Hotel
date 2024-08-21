@@ -12,7 +12,7 @@ const ImageGal = () => {
               component="img"
               height="140"
               width="100%"
-              image="room1.png"
+              image="https://firebasestorage.googleapis.com/v0/b/hotel-booking-system-35f4a.appspot.com/o/Public%20Folder%2Fimage-1.png?alt=media&token=e417affd-6460-4028-a7dd-6a642a21befc"
               alt="Image 1"
             />
           </Card>
@@ -23,7 +23,7 @@ const ImageGal = () => {
               component="img"
               height="200"
               width="100%"
-              image="room2.png"
+              image="https://firebasestorage.googleapis.com/v0/b/hotel-booking-system-35f4a.appspot.com/o/Public%20Folder%2Fimage-2.png?alt=media&token=d97b7a04-3b41-486f-8fa5-a6014a81d997"
               alt="Image 2"
             />
           </Card>
@@ -34,7 +34,7 @@ const ImageGal = () => {
               component="img"
               height="260"
               width="100%"
-              image="room3.png"
+              image="https://firebasestorage.googleapis.com/v0/b/hotel-booking-system-35f4a.appspot.com/o/Public%20Folder%2Fimage-3.png?alt=media&token=387cb7d8-0554-45c9-85fa-c87a733297c7"
               alt="Image 3"
             />
           </Card>
